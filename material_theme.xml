@@ -1,8 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="isWizardShown" value="true" />
+    <option name="overrideAccentColor" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="selectedTheme" value="LIGHT_CUSTOM" />
+    <option name="accentColor" value="009688" />
+    <option name="selectedTheme" value="CUSTOM" />
     <option name="userId" value="5ffaaa3b:16cf1335d98:-7ffc" />
     <option name="version" value="4.4.6" />
   </component>
