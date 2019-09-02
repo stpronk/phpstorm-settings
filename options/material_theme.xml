@@ -1,0 +1,36 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="compactDropdowns" value="true" />
+    <option name="compactSidebar" value="true" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isCustomTreeIndentEnabled" value="true" />
+    <option name="isDecoratedFolders" value="false" />
+    <option name="isHighContrast" value="true" />
+    <option name="isStyledDirectories" value="true" />
+    <option name="isTabsShadow" value="false" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="statusBarTheme" value="false" />
+    <option name="tabFontSizeEnabled" value="true" />
+    <option name="upperCaseButtons" value="false" />
+    <option name="useMaterialFont2" value="true" />
+    <option name="useProjectViewDecorators" value="false" />
+    <option name="tabOpacity" value="100" />
+    <option name="highlightThickness" value="1" />
+    <option name="indicatorThickness" value="1" />
+    <option name="leftTreeIndent" value="3" />
+    <option name="rightTreeIndent" value="6" />
+    <option name="settingsSelectedTab" value="4" />
+    <option name="tabsHeight" value="15" />
+    <option name="accentColor" value="369793" />
+    <option name="highlightColor" value="369793" />
+    <option name="selectedTheme" value="CUSTOM" />
+    <option name="userId" value="508d34b3:169c46f9e1c:-8000" />
+    <option name="version" value="3.9.4" />
+    <option name="tabHighlightPosition" value="Top-Bottom" />
+  </component>
+</application>
