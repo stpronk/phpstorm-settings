@@ -129,7 +129,4 @@
       <option name="JSP" value="false" />
     </context>
   </template>
-  <template name="@hasanyrole" value="@hasanyrole('$ROLES$')&#10;    $END$&#10;@endhasanyrole" description="Blade @hasanyrole" toReformat="false" toShortenFQNames="true">
-    <variable name="ROLES" expression="" defaultValue="" alwaysStopAt="true" />
-  </template>
 </templateSet>

@@ -4,8 +4,8 @@
       <mapping pattern="QuantPickingLine" type="PHP" />
       <mapping pattern="CurrencySeeder" type="PHP" />
       <mapping pattern="TemplateSalesInvoiceSeeder" type="PHP" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="WorkOrderController.php" type="PLAIN_TEXT" />
       <removed_mapping pattern="CurrencySeeder.php" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
