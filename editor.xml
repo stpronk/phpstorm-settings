@@ -2,10 +2,9 @@
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
       <map>
+        <entry key="ECMAScript 6" value="true" />
         <entry key="PHP" value="true" />
       </map>
     </option>
-    <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
-    <option name="SHOW_BREADCRUMBS" value="false" />
   </component>
 </application>
