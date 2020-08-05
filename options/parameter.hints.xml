@@ -4,6 +4,7 @@
       <blacklist language="TypeScript" />
       <blacklist language="JavaScript" />
       <blacklist language="PHP">
+        <added pattern="\Illuminate\Foundation\AliasLoader.alias(class,alias)" />
         <removed pattern="" />
       </blacklist>
     </blacklists>
