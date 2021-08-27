@@ -4,6 +4,7 @@
     <option name="CLOSE_TAB_BUTTON_ON_THE_RIGHT" value="false" />
     <option name="EDITOR_TAB_PLACEMENT" value="2" />
     <option name="IDE_AA_TYPE" value="Greyscale" />
+    <option name="PRESENTATION_MODE_FONT_SIZE" value="18" />
     <option name="SHOW_TABS_TOOLTIPS" value="false" />
   </component>
 </application>
