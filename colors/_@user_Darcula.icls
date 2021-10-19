@@ -1,0 +1,18 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2021-10-19T09:27:32</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2021.1.2.0.0</property>
+    <property name="modified">2021-10-19T10:22:07</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="MT_DIRECTORIES">
+      <value>
+        <option name="FOREGROUND" value="eeffff" />
+        <option name="BACKGROUND" value="1d1d1d" />
+        <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
